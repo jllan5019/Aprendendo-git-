@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Vamos aprender
+=======
+Minha Vaga na avanade está garantida , foi Deus que me escolheu
+>>>>>>> 975af3483de9e1e0fb0c932e1255ada3efa7b73e
